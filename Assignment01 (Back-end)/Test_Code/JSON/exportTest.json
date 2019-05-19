@@ -1,0 +1,45 @@
+ [{
+  "fileName" : "FINALLY.json",
+  "fullPath" : "file:\/\/\/home\/cshome\/t\/thorwood\/346\/assignment-one-media-manager-library-whatisassignment\/Test_Code\/JSON\/trueImage.json",
+  "type" : "Image",
+  "metaData" : {
+  "Resolution" : "640x480",
+  "Creator" : "Nicky_Minaj",
+  "Location" : "Dunedin_City",
+  "Image Name" : "Booty_Pics",
+  "Time_Of_Date" : "25\/12\/2018_13:31:07"
+  }
+  },{
+  "fileName" : "FINALLY.json",
+  "fullPath" : "file:\/\/\/home\/cshome\/t\/thorwood\/346\/assignment-one-media-manager-library-whatisassignment\/Test_Code\/JSON\/trueImage.json",
+  "type" : "Image",
+  "metaData" : {
+  "Resolution" : "1440x1080",
+  "Creator" : "Batman",
+  "Location" : "Gotham_City",
+  "Image_Name" : "Photo_of_Parents",
+  "Time_Of_Date" : "12\/09\/2007_16:21:02"
+  }
+  },{
+  "fileName" : "FINALLY.json",
+  "fullPath" : "file:\/\/\/home\/cshome\/t\/thorwood\/346\/assignment-one-media-manager-library-whatisassignment\/Test_Code\/JSON\/trueImage.json",
+  "type" : "Image",
+  "metaData" : {
+  "Resolution" : "960x720",
+  "Creator" : "Jack_Sparrow",
+  "Location" : "Mexico_City",
+  "Image_Name" : "Jar_of_Dirt",
+  "Time_Of_Date" : "01\/02\/1521_12:38:52"
+  }
+  },{
+  "fileName" : "FINALLY.json",
+  "fullPath" : "file:\/\/\/home\/cshome\/t\/thorwood\/346\/assignment-one-media-manager-library-whatisassignment\/Test_Code\/JSON\/trueImage.json",
+  "type" : "Image",
+  "metaData" : {
+  "Resolution" : "2560x1600",
+  "Creator" : "FBI_Guy",
+  "Location" : "Russia",
+  "Image_Name" : "Snowden_Sighting",
+  "Time_Of_Date" : "25\/12\/2018_13:31:07"
+  }
+  }]

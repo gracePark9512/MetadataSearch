@@ -1,0 +1,34 @@
+[
+ {
+ "fullPath": "/home/desktop/I/lovechips.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Mum",
+ "Runtime": "00:15:25",
+ "Resolution": "4k"
+ }},
+ {
+ "fullPath": "/home/desktop/if/Iwrite.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Little_Brother",
+ "Runtime": "01:30:15",
+ "Resolution": "1080p"
+ }},
+ {
+ "fullPath": "/home/desktop/letter/toyou.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Logan",
+ "Runtime": "00:12:01",
+ "Resolution": "240p"
+ }},
+ {
+ "fullPath": "/home/desktop/wouldI/getgoodmark.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Batman",
+ "Runtime": "00:22:55",
+ "Resolution": "720p"
+ }}
+ ]

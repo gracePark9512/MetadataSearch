@@ -1,0 +1,30 @@
+[
+ {
+ "fullPath": "/home/desktop/this/Betterwork.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator" : "Nicky_Minaj",
+ "Resolution" : "640x480"
+ }},
+ {
+ "fullPath": "/home/desktop/going/fancy.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator" : "Batman",
+ "Resolution" : "1440x1080"
+ }},
+ {
+ "fullPath": "/home/desktop/lonstar/hasgreatnachos.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator" : "Jack_Sparrow",
+ "Resolution" : "960x720"
+ }},
+ {
+ "fullPath": "/home/desktop/yumyum/mayo.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator" : "FBI_Guy",
+ "Resolution" : "2560x1600"
+ }}
+ ]

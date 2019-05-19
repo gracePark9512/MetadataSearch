@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="14113" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <plugIn identifier="com.apple.AVKitIBPlugin" version="14113"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="14113"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="VideoViewController" customModule="FileUI" customModuleProvider="target">
+            <connections>
+                <outlet property="filename" destination="W34-Nm-wOq" id="deG-fB-ygj"/>
+                <outlet property="videoView" destination="MHe-Ki-0lu" id="QZL-uj-6iL"/>
+                <outlet property="window" destination="F0z-JX-Cv5" id="gIp-Ho-8D9"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <window title="Window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" releasedWhenClosed="NO" animationBehavior="default" id="F0z-JX-Cv5">
+            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="196" y="240" width="646" height="534"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="2560" height="1417"/>
+            <view key="contentView" wantsLayer="YES" id="se5-gp-TjO">
+                <rect key="frame" x="0.0" y="0.0" width="646" height="534"/>
+                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                <subviews>
+                    <avPlayerView controlsStyle="inline" translatesAutoresizingMaskIntoConstraints="NO" id="MHe-Ki-0lu">
+                        <rect key="frame" x="20" y="230" width="606" height="293"/>
+                    </avPlayerView>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="W34-Nm-wOq">
+                        <rect key="frame" x="49" y="20" width="548" height="199"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="544" id="ZJ5-Mw-yhK"/>
+                        </constraints>
+                        <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="filename" id="yEH-vm-Eow">
+                            <font key="font" metaFont="system"/>
+                            <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                            <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                        </textFieldCell>
+                    </textField>
+                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="OhJ-u5-6hh">
+                        <rect key="frame" x="583" y="194" width="49" height="32"/>
+                        <buttonCell key="cell" type="push" title="&gt;" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="eB5-nr-2d8">
+                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                            <font key="font" metaFont="system"/>
+                        </buttonCell>
+                        <connections>
+                            <action selector="nextVidClicked:" target="-2" id="Hyf-Ar-GXN"/>
+                        </connections>
+                    </button>
+                    <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="46T-Ld-u60">
+                        <rect key="frame" x="14" y="194" width="49" height="32"/>
+                        <buttonCell key="cell" type="push" title="&lt;" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="Iw1-Mz-4Fa">
+                            <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                            <font key="font" metaFont="system"/>
+                        </buttonCell>
+                        <connections>
+                            <action selector="prevVidClicked:" target="-2" id="0uj-VV-WDo"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="OhJ-u5-6hh" firstAttribute="trailing" secondItem="MHe-Ki-0lu" secondAttribute="trailing" id="0Kp-Md-YEe"/>
+                    <constraint firstItem="MHe-Ki-0lu" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" constant="20" symbolic="YES" id="6s0-bQ-Qc4"/>
+                    <constraint firstItem="OhJ-u5-6hh" firstAttribute="top" secondItem="MHe-Ki-0lu" secondAttribute="bottom" constant="8" id="7wR-pP-EGt"/>
+                    <constraint firstItem="W34-Nm-wOq" firstAttribute="top" secondItem="MHe-Ki-0lu" secondAttribute="bottom" constant="11" id="7xN-wI-SuP"/>
+                    <constraint firstAttribute="bottom" secondItem="MHe-Ki-0lu" secondAttribute="bottom" constant="230" id="aJt-Tz-hQq"/>
+                    <constraint firstItem="46T-Ld-u60" firstAttribute="leading" secondItem="MHe-Ki-0lu" secondAttribute="leading" id="azc-ae-lXz"/>
+                    <constraint firstAttribute="bottom" secondItem="W34-Nm-wOq" secondAttribute="bottom" constant="20" symbolic="YES" id="bXF-0q-AgG"/>
+                    <constraint firstItem="MHe-Ki-0lu" firstAttribute="top" secondItem="se5-gp-TjO" secondAttribute="top" constant="11" id="eMT-z4-6jP"/>
+                    <constraint firstItem="OhJ-u5-6hh" firstAttribute="baseline" secondItem="46T-Ld-u60" secondAttribute="baseline" id="iZG-2V-3Uw"/>
+                    <constraint firstItem="MHe-Ki-0lu" firstAttribute="centerX" secondItem="W34-Nm-wOq" secondAttribute="centerX" id="jyh-VX-pKr"/>
+                    <constraint firstAttribute="trailing" secondItem="MHe-Ki-0lu" secondAttribute="trailing" constant="20" symbolic="YES" id="x30-3O-4uT"/>
+                </constraints>
+            </view>
+            <connections>
+                <outlet property="delegate" destination="-2" id="0bl-1N-AYu"/>
+            </connections>
+            <point key="canvasLocation" x="15" y="289"/>
+        </window>
+        <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" id="BQT-fq-Q1T">
+            <rect key="frame" x="0.0" y="0.0" width="38" height="17"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Label" id="hhB-rB-fPQ">
+                <font key="font" metaFont="system"/>
+                <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+            </textFieldCell>
+        </textField>
+    </objects>
+</document>

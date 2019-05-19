@@ -1,0 +1,42 @@
+[
+ {
+ "fullPath": "/home/desktop/what/nomoreideas.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "Cat_Woman",
+ "Audio_Name": "Batman_Snoring",
+ "Runtime": "00:12:32",
+ "Genre": "Recording",
+ "Date": "24/05/2012"
+ }},
+ {
+ "fullPath": "/home/desktop/testcases/areboring.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "Blood_Hound_Gang",
+ "Audio_Name": "Discovery_Channel",
+ "Runtime": "00:03:31",
+ "Genre": "Rock",
+ "Date": "19/03/2008"
+ }},
+ {
+ "fullPath": "/home/desktop/jokes/Ilovecosc346.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "NSA",
+ "Audio_Name": "Phone_Call_Between_Paul_and_Hamza",
+ "Runtime": "00:39:12",
+ "Genre": "Recording",
+ "Date": "14/02/2018"
+ }},
+ {
+ "fullPath": "/home/desktop/ohdamn/sotired.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "AC_Slater",
+ "Audio_Name": "Fly_Kicks",
+ "Runtime": "00:4:38",
+ "Genre": "Electro_House",
+ "Date": "21/08/2016"
+ }}
+ ]

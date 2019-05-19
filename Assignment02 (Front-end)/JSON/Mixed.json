@@ -1,0 +1,88 @@
+ [
+  {
+  "fullPath": "/home/desktop/photo/BootyPic.jpg",
+  "type": "Image",
+  "metaData": {
+  "Creator": "Nicky_Minaj",
+  "Image_Name": "Booty_Pics",
+  "Location": "Dunedin_City",
+  "Resolution": "640x480",
+  "Time_Of_Date": "03/07/2013_08:31:22"
+  }
+  },
+  {
+  "fullPath": "/home/desktop/BatmanStuff/WeddingDay.jpg",
+  "type": "Image",
+  "metaData": {
+  "Creator": "Batman",
+  "Image_Name": "Photo_of_Parents",
+  "Location": "Gotham_City",
+  "Resolution": "1440x1080",
+  "Time_Of_Date": "12/09/2007_16:21:02"
+  }
+  },
+  {
+  "fullPath": "/home/desktop/Shh/PirateBay.jpg",
+  "type": "Image",
+  "metaData": {
+  "Creator": "Jack_Sparrow",
+  "Image_Name": "Jar_of_Dirt",
+  "Location": "Mexico_City",
+  "Resolution": "960x720",
+  "Time_Of_Date": "01/02/1521_12:38:52"
+  }
+  },
+  {
+  "fullPath": "/home/desktop/NSA/BadGuy.jpg",
+  "type": "Image",
+  "metaData": {
+  "Creator": "FBI_Guy",
+  "Image_Name": "Snowden_Sighting",
+  "Location": "Russia",
+  "Resolution": "2560x1600",
+  "Time_Of_Date": "25/12/2018_13:31:07"
+  }
+  },
+ {
+ "fullPath": "/home/desktop/family/reunion.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Mum",
+ "Video_Name": "Funny_Cat_Videos",
+ "Video_Size": "50MB",
+ "Runtime": "00:15:25",
+ "Resolution": "4k"
+ }},
+ {
+ "fullPath": "/home/desktop/but/idonthavebro.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Little_Brother",
+ "Video_Name": "Crazy_Frog",
+ "Video_Size": "2GB",
+ "Runtime": "01:30:15",
+ "Resolution": "1080p"
+ }},
+ {
+ "fullPath": "/home/desktop/please/benice.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Logan",
+ "Video_Name": "Filmed_By_a_Potato",
+ "Video_Size": "5MB",
+ "Runtime": "00:12:01",
+ "Resolution": "240p"
+ }},
+ {
+ "fullPath": "/home/desktop/aplus/aplause.mp4",
+ "type": "Video",
+ "metaData": {
+ "Creator": "Batman",
+ "Video_Name": "Monster_Hunter_Worlds:_GunLance_Tutorial",
+ "Video_Size": "500MB",
+ "Runtime": "00:22:55",
+ "Resolution": "720p"
+ }}
+ ]
+
+

@@ -1,0 +1,44 @@
+[
+ {
+ "fullpath": "/home/desktop/family/reunion.mp2",
+ "type": "video",
+ "metadata": {
+ "creator": "Mum",
+ "video_Name": "Funny_Cat_Videos",
+ "video_Size": "50MB",
+ "runtime": "00:15:25",
+ "resolution": "4k"
+ }},
+ {
+ "fullpath": "/home/desktop/but/idonthavebro.mop",
+ "type": "video",
+ "metadata": {
+ "creator": "Little_Brother",
+ "video_Name": "Crazy_Frog",
+ "video_Size": "2GB",
+ "runtime": "01:30:15",
+ "resolution": "1080p"
+ }},
+ {
+ "fullpath": "/home/desktop/please/benice.jpw",
+ "type": "video",
+ "metadata": {
+ "creator": "Logan",
+ "video_Name": "Filmed_By_a_Potato",
+ "video_Size": "5MB",
+ "runtime": "00:12:01",
+ "resolution": "240p"
+ }},
+ {
+ "fullpath": "/home/desktop/aplus/aplause.txr",
+ "type": "video",
+ "metadata": {
+ "creator": "Batman",
+ "video_Name": "Monster_Hunter_Worlds:_GunLance_Tutorial",
+ "video_Size": "500MB",
+ "runtime": "00:22:55",
+ "resolution": "720p"
+ }}
+ ]
+ 
+

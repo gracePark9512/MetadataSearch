@@ -1,0 +1,42 @@
+[
+ {
+ "fullPath": "/home/desktop/finally/doc.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Not_Grace",
+ "File_Name": "Assignment_are_Fun",
+ "File_Size": "12MB",
+ "File_Location": "~/NotTiare/NotDesktop",
+ "Last_Modified": "12/7/2018"
+ }},
+ {
+ "fullPath": "/home/desktop/commandline/isbeing.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Not_Tiare",
+ "File_Name": "Baby_Shower_Invitations",
+ "File_Size": "500MB",
+ "File_Location": "~/NotTiare/NotDesktop/MaybePregnant",
+ "Last_Modified": "07/07/2017"
+ }},
+ {
+ "fullPath": "/home/desktop/an/ass.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Shasha",
+ "File_Name": "Reasons_To_Live",
+ "File_Size": "12KB",
+ "File_Location": "~/NotTiare/NotDesktop/Trash",
+ "Last_Modified": "01/2/2012"
+ }},
+ {
+ "fullPath": "/home/desktop/whut/isgoingon.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Maybe_Hamza",
+ "File_Name": "Letter_of_Acceptence",
+ "File_Size": "50MB",
+ "File_Location": "~/NotTiare/NotDesktop/University",
+ "Last_Modified": "03/07/2013"
+ }}
+ ]

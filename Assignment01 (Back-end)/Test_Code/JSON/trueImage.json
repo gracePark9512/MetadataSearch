@@ -1,0 +1,46 @@
+[
+ {
+ "fullPath": "/home/desktop/photo/BootyPic.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator": "Nicky_Minaj",
+ "Image Name": "Booty_Pics",
+ "Location": "Dunedin_City",
+ "Resolution": "640x480",
+ "Time_Of_Date" : "25\/12\/2018_13:31:07"
+ }
+ },
+ {
+ "fullPath": "/home/desktop/BatmanStuff/WeddingDay.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator": "Batman",
+ "Image_Name": "Photo_of_Parents",
+ "Location": "Gotham_City",
+ "Resolution": "1440x1080",
+ "Time_Of_Date": "12/09/2007_16:21:02"
+ }
+ },
+ {
+ "fullPath": "/home/desktop/Shh/PirateBay.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator": "Jack_Sparrow",
+ "Image_Name": "Jar_of_Dirt",
+ "Location": "Mexico_City",
+ "Resolution": "960x720",
+ "Time_Of_Date": "01/02/1521_12:38:52"
+ }
+ },
+ {
+ "fullPath": "/home/desktop/NSA/BadGuy.jpg",
+ "type": "Image",
+ "metaData": {
+ "Creator": "FBI_Guy",
+ "Image_Name": "Snowden_Sighting",
+ "Location": "Russia",
+ "Resolution": "2560x1600",
+ "Time_Of_Date": "25/12/2018_13:31:07"
+ }
+ }
+ ]

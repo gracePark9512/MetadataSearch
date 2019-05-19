@@ -1,0 +1,34 @@
+[
+ {
+ "fullPath":"/home/desktop/whatever/wrongpic.jpg",
+ "type": "Image",
+ "metaData": {
+ "Image_Name" : "Booty_Pics",
+ "Location" : "Dunedin_City",
+ "Time_Of_Date" : "03/07/2013_08:31:22"
+ }},
+ {
+ "fullPath": "/home/desktop/Iwantto/graduate.jpg",
+ "type": "Image",
+ "metaData": {
+ "Image_Name" : "Photo_of_Parents",
+ "Location" : "Gotham_City",
+ "Time_Of_Date" : "12/09/2007_16:21:02"
+ }},
+ {
+ "fullPath": "/home/desktop/Iwant/job.jpg",
+ "type": "Image",
+ "metaData": {
+ "Image_Name" : "Jar_of_Dirt",
+ "Location" : "Mexico_City",
+ "Time_Of_Date" : "01/02/1521_12:38:52"
+ }},
+ {
+ "fullPath": "/home/desktop/so/tire.jpg",
+ "type": "Image",
+ "metaData": {
+ "Image_Name" : "Snowden_Sighting",
+ "Location" : "Russia",
+ "Time_Of_Date" : "25/12/2018_13:31:07"
+ }}
+ ]

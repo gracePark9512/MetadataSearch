@@ -1,0 +1,30 @@
+[
+ {
+ "fullPath": "/home/desktop/iam/adogperson.mp4",
+ "type": "Video",
+ "metaData": {
+ "Video_Name": "Funny_Cat_Videos",
+ "Video_Size": "50MB"
+ }},
+ {
+ "fullPath": "/home/desktop/sayno/tofrog.mp4",
+ "type": "Video",
+ "metaData": {
+ "Video_Name": "Crazy_Frog",
+ "Video_Size": "2GB"
+ }},
+ {
+ "fullPath": "/home/desktop/mygroupmate/isapotato.mp4",
+ "type": "Video",
+ "metaData": {
+ "Video_Name": "Filmed_By_a_Potato",
+ "Video_Size": "5MB"
+ }},
+ {
+ "fullPath": "/home/desktop/dont/tellhim.mp4",
+ "type": "Video",
+ "metaData": {
+ "Video_Name": "Monster_Hunter_Worlds:_GunLance_Tutorial",
+ "Video_Size": "500MB"
+ }}
+ ]

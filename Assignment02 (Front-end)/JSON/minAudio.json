@@ -1,0 +1,30 @@
+[
+ {
+ "fullPath": "/home/desktop/haha/hoho.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "Cat_Woman",
+ "Runtime": "00:12:32"
+ }},
+ {
+ "fullPath": "/home/desktop/hoho/isforsanta.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "Blood_Hound_Gang",
+ "Runtime": "00:03:31"
+ }},
+ {
+ "fullPath": "/home/desktop/didyou/know.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "NSA",
+ "Runtime": "00:39:12"
+ }},
+ {
+ "fullPath": "/home/desktop/christmas/isinfewweeks.mp3",
+ "type": "Audio",
+ "metaData": {
+ "Creator": "AC_Slater",
+ "Runtime": "00:4:38"
+ }}
+ ]

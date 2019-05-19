@@ -1,0 +1,26 @@
+[
+ {
+ "fullPath": "/home/desktop/who/wrotethis.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Not_Grace"
+ }},
+ {
+ "fullPath": "/home/desktop/bros/andsis.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Not_Tiare"
+ }},
+ {
+ "fullPath": "/home/desktop/where/ismylove.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Shasha"
+ }},
+ {
+ "fullPath": "/home/desktop/hellow/hamza.txt",
+ "type": "Document",
+ "metaData": {
+ "Creator": "Maybe_Hamza"
+ }}
+ ]
